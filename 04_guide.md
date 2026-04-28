@@ -7,7 +7,15 @@ nav-menu: true
 permalink: /guide/
 ---
 
-{% include notice.html %}
+## Event time and Resting Period
+The JKU Games 2026S will take place from **Friday, 01.05. (16:00)** until **Sunday, 03.05. (06:00)**, for 38 hours 
+non-stop.<br>
+On Saturday from **04:00 to 10:00**, the JKU Games Orga team will have a **resting period** and operate at limited 
+capacity. We'll use this time to clean up and prepare the next day, and might even catch an hour of sleep or two as 
+well. <br>
+During this time, you can stay at the event and play games, but you won't be able to get new ones from our Games Rental 
+section. Our Infopoint will be staffed, but outages in our technical infrastructure might not be fixed as quickly. In 
+other words: This is the perfect time to test our resting area or work on our giant puzzle.
 
 ## Roomplan
 <figure>
@@ -76,9 +84,9 @@ Some selected other food opportunities nearby:
 
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/" target="_blank">JKU's food guide</a>!
 
-### Resting-Area
+### Silent Resting Area
 If you need a short break or want to recover from an intense Pen & Paper Adventure or a stressful CS-Match, you can 
-chill in our Resting-Area on the second floor. Please bring your own sleeping bags or mattresses. 
+chill in our Silent Resting Area on the second floor. Please bring your own sleeping bags or mattresses. 
 
 ## Awareness Team
 Like all of our bigger events, the JKU Games makes use of Awareness Teams. Awareness Team members wear magenta high-vis vests.
@@ -110,7 +118,7 @@ your PC in the LAN-Area, you can also reserve a spot [there](/./lan).
 ### Do I need to bring anything?
 Depends on what you are up to: If you want to play Computer Games, you will have to bring your own PC and peripherals. 
 We will hook you up with LAN and power - see the [LAN section](/./lan) for more details. If you are only here for the 
-DICE area, you should be good, but you can bring your favorite games of course just in case we missed it.
+boardgame area, you should be good, but you can bring your favorite games of course just in case we missed it.
 If you plan on staying for longer, you might want to bring a bit of money for food orders, and a sleeping bag.
 Most importantly, don't forget to bring your friends :P
 

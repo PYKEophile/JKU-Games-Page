@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Timetable, Events and Tournaments
+title: Tournaments
 description: Fame and Glory await you
 image: 
 nav-menu: true
@@ -10,17 +10,7 @@ permalink: /tournaments/
 {% include notice.html %}
 -->
 
-## Event time and Resting Period
-The JKU Games 2026S will take place from **Friday, 01.05. (16:00)** until **Sunday, 03.05. (06:00)**, for 38 hours 
-non-stop.<br>
-On Saturday from **04:00 to 10:00**, the JKU Games Orga team will have a **resting period** and operate at limited 
-capacity. We'll use this time to clean up and prepare the next day, and might even catch an hour of sleep or two as 
-well. <br>
-During this time, you can stay at the event and play games, but you won't be able to get new ones from our Games Rental 
-section. Our Infopoint will be staffed, but outages in our technical infrastructure might not be fixed as quickly. In 
-other words: This is the perfect time to test our resting area or work on our giant puzzle.
-
-## Tournaments
+Compete for glory and fame (and little goodies) in one of our tournaments.<br>
 
 <figure>
   <a class="img" href="/assets/images/lan/Spaceship_Simulator.jpg">
@@ -30,27 +20,25 @@ other words: This is the perfect time to test our resting area or work on our gi
     <figcaption></figcaption>
 </figure>
 
-Compete for glory and fame (and little goodies) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and 
 guarantees you to get a spot. Left-over spots can also be booked during the event as well.
 
-**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
+<!-- **Note: The ticket shop has not yet opened. Check back regularly to not miss anything.** -->
 
 <a href="https://pretix.eu/gamesjku/S26/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
-| Start time | Location     | Game                       |
-|------------|--------------|----------------------------|
-| Fr 17:30   | Console Area | Mario Kart                 |
-| Fr 19:30   | LAN Area     | OpenGuessr                 |
-| Fr 20:30   | Boardgame Area    | Poker                      |
-| Sa 16:00   | Boardgame Area    | Phase 10                   |
-| Sa 17:00   | Boardgame Area    | Uno Flip!                  |
-| Sa 18:00   | Console Area | Super Smash Bros. Ultimate |
-| Sa 19:00   | Just Dance Area    | Anime Music Quiz           |
-| Sa 20:00   | LAN Area     | Minecraft Hunger Games     |
+| Start time | Location        | Game                       |
+|------------|-----------------|----------------------------|
+| Fr 17:30   | Console Area    | Mario Kart                 |
+| Fr 19:30   | LAN Area        | OpenGuessr                 |
+| Fr 20:30   | Boardgame Area  | Poker                      |
+| Sa 16:00   | Boardgame Area  | Phase 10                   |
+| Sa 17:00   | Boardgame Area  | Uno Flip!                  |
+| Sa 19:00   | Just Dance Area | Anime Music Quiz           |
+| Sa 20:00   | LAN Area        | Minecraft Hunger Games     |
 
-Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes 
+Please ensure that you **arrive at least 5 minutes before the tournament starts**. If you are not present up until 5 minutes 
 before, you may be substituted from the tournament.
 
 ### Mario Kart 8 Deluxe (Console Area) - Friday, 5.30pm
@@ -86,10 +74,12 @@ We will play in a bracket system consisting of several groups playing each other
 advances to the next round.<br>
 We will provide you with the game (and rules).
 
+<!--
 ### Super Smash Bros Ultimate (Console Area) - Saturday, 6pm
 <em>Smash your buttons and Brawl your way through Super combos in this Ultimate fighting game between Bros.</em><br>
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s ... in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
+-->
 
 ### Anime Music Quiz (Just Dance Area) - Saturday, 7pm
 <em>Gotta catch em all!</em>
